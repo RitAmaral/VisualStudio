@@ -40,8 +40,9 @@ internal class Program
         Console.WriteLine(cb);
         Console.WriteLine("Onde está o guito");
         Console.WriteLine("Quem tem o guito?");
+        Console.WriteLine("Quem é o guito?");
         //Se quiser mudar o nome, ou seja, utilizar o set:       
-        cb.Nome = "Rita";
+        cb.Nome = "Nicolau e Lucio";
         Console.WriteLine(cb);
     }
 }
