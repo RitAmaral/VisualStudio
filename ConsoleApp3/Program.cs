@@ -40,7 +40,7 @@ internal class Program
         Console.WriteLine(cb);
 
         //Se quiser mudar o nome, ou seja, utilizar o set:       
-        cb.Nome = "Pedro";
+        cb.Nome = "Rita";
         Console.WriteLine(cb);
     }
 }
