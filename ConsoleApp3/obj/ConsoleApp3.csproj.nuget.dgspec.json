@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesae\\Desktop\\RitaAmaral\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\cesae\\OneDrive - CESAE\\Ambiente de Trabalho\\Projectos Window Forms\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesae\\Desktop\\RitaAmaral\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\cesae\\OneDrive - CESAE\\Ambiente de Trabalho\\Projectos Window Forms\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\RitaAmaral\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\cesae\\OneDrive - CESAE\\Ambiente de Trabalho\\Projectos Window Forms\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\Cesae\\Desktop\\RitaAmaral\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
-        "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesae\\Desktop\\RitaAmaral\\VisualStudio\\ConsoleApp3\\obj\\",
+        "projectPath": "C:\\Users\\cesae\\OneDrive - CESAE\\Ambiente de Trabalho\\Projectos Window Forms\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
+        "packagesPath": "C:\\Users\\cesae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cesae\\OneDrive - CESAE\\Ambiente de Trabalho\\Projectos Window Forms\\VisualStudio\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
