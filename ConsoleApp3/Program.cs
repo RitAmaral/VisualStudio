@@ -39,6 +39,7 @@ internal class Program
         Console.WriteLine("Dados atualizados da conta: ");
         Console.WriteLine(cb);
         Console.WriteLine("Onde está o guito");
+        Console.WriteLine("Quem tem o guito?");
         //Se quiser mudar o nome, ou seja, utilizar o set:       
         cb.Nome = "Rita";
         Console.WriteLine(cb);
