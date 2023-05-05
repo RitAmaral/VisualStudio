@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nFxOzq6BqH1rrYu+AjJ6TInW+5nNUeSeC8wbAQw+QgpKnbT6egP1qEOQ6IoRQodGqUFT7At+Es44sk7uXA8uhw==",
+  "dgSpecHash": "nUIP12nPLm5VvCL0jP8LfTVkLOkkH5D9U4J/vhb1GbvcnvN9MbjezQ2s9O9+xAyvn11dfSgsYXlZwNfwPngIkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "projectFilePath": "C:\\Users\\Cesae\\Desktop\\clone\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

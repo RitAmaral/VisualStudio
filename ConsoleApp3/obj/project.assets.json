@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\Cesae\\Desktop\\clone\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\Cesae\\Desktop\\clone\\VisualStudio\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\Cesae\\Desktop\\clone\\VisualStudio\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,13 +64,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Cesae\\Desktop\\Ana Rita\\Programação de computadores - estruturada\\ConsoleApp3\\ConsoleApp3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
